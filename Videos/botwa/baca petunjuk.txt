@@ -1,0 +1,2 @@
+Pertama NPM INSTALL
+Kedua NODE BOT

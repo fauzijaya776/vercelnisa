@@ -1,0 +1,36 @@
+[
+   {
+      "code": "gmail",
+      "name": "GMAIL FRESH TAHAN BANTING",
+      "price": 950,
+      "description": "nama random ada angka",
+      "stockSold": 13075,
+      "totalStock": 0,
+      "accounts": []
+   },
+   {
+      "code": "gmailbekas",
+      "name": "GMAIL BEKAS CLOUD",
+      "price": 700,
+      "description": "nama random ada angka",
+      "stockSold": 539,
+      "totalStock": 0,
+      "accounts": []
+   },
+   {
+      "code": "test",
+      "name": "test fitur",
+      "price": 2000,
+      "description": "test fitur",
+      "stockSold": 0,
+      "totalStock": 1,
+      "accounts": [
+         {
+            "user": "jnayarboca@gmail.com",
+            "pass": "papan500",
+            "date": "2025-07-12T14:32:52.495Z",
+            "notes": []
+         }
+      ]
+   }
+]
